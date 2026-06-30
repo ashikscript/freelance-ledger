@@ -56,7 +56,7 @@ let unsubPendingComments = null;
 // your one account. A toast will show your UID — paste it here, replacing the
 // placeholder, AND into the Firestore rule from the setup guide. Until you do this,
 // the app falls back to private/sign-in-required mode automatically.
-const OWNER_UID = "PASTE_YOUR_OWNER_UID";
+const OWNER_UID = "0vsGifU3itenxHFi5P6aTVrHS9I1";
 const ownerConfigured = OWNER_UID && !OWNER_UID.startsWith("PASTE_YOUR");
 
 const EARLIEST_YEAR = 2022; // your freelancing start — change this any time
